@@ -1,5 +1,7 @@
 ![piyo-channel](https://channel.piyo.cafe/img/channelBlue.png)
+
 **a configurable, easy-to-use, light-weight message board.**
+
 [Live Test Version](https://channel.piyo.cafe/dev/)
 
 # Requirements
