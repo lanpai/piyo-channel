@@ -9,8 +9,8 @@
 * MySQL server
 
 # Installation
-* Download repository
-* Place contents of this repository into a web server supporting PHP.
+* Download the latest release [(Releases)](https://github.com/piyo-cafe/piyo-channel/releases).
+* Place contents of the downloaded archive into a web server supporting PHP.
 * Rename /dev/ to the preferred board name.
 * Edit configs accordingly (One in the root directory and one for each board).
 
