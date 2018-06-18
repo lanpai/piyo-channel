@@ -16,3 +16,7 @@
 
 # Extra Usage
 * To create a new board, simply duplicate any board directory (Default being /dev/) and edit configs accordingly.
+
+#To-Do
+- [ ] View posts in pages as to not load a limitless amount of posts
+- [ ] Change config format (possibly YAML?)
