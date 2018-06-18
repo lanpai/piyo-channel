@@ -5,8 +5,8 @@
 [Live Test Version](https://channel.piyo.cafe/dev/)
 
 # Requirements
-* MySQL database
-* PHP 5.0+
+* Web server (e.g. NGINX/Apache) equipped with PHP 5.0+
+* MySQL server
 
 # Installation
 * Download repository
