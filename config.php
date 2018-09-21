@@ -15,7 +15,7 @@ $config[enableLogs] = true; // PHP user must have permissions to write in ./logs
 
 // MySQL Config
 $config[dbip] = "localhost";
-$config[dbusername] = "channel";
-$config[dbpassword] = "3DFGmwSMKKlUMMoX";
-$config[dbname] = "channel";
+$config[dbusername] = "";
+$config[dbpassword] = "";
+$config[dbname] = "";
 ?>
